@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © RafatharCode                [+]${NC}"
+  echo -e "${BLUE}[+]                  © NABZX HOST               [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "dilarang keras untuk dikasih gratis."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@RafatharCode"
+  echo -e "@nabzxstore"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@RafatharCode"
+  echo -e "@nabzxhost"
   sleep 4
   clear
 }
@@ -56,20 +56,20 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY RAFATHAR CODE            [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY NABZX HOST           [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "happyalfixamalia" ]; then
+  if [ "$USER_TOKEN" = "nabzxhost" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke RafatharCode X Amalia${NC}"
-    echo -e "${YELLOW}TELEGRAM : @RafatharCode${NC}"
-    echo -e "${YELLOW}WHATSAPP : 6285864743922${NC}"
+    echo -e "${GREEN}Buy dulu Gih Ke nabzx host${NC}"
+    echo -e "${YELLOW}TELEGRAM : @nabzxhost${NC}"
+    echo -e "${YELLOW}WHATSAPP : 6282178006414${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©RafatharCode${NC}"
+    echo -e "${YELLOW}©nabzxhost${NC}"
     exit 1
   fi
   clear
@@ -384,7 +384,7 @@ sudo systemctl start wings
   clear
   exit 0
 }
-hackback_panel() {
+nabackback_panel() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                    HACK BACK PANEL                 [+]${NC}"
@@ -454,9 +454,9 @@ while true; do
   echo -e "${BLUE}',gg       ,ggg.      'ggg:                               ${NC}"
   echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Auto Installer RafatharCode Private   ${NC}"
   echo -e "${BLUE}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/RafatharCode     ${NC}"
-  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : RAFATHARCODE ${NC}"
-  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by RafatharCode X Amalia  ${NC}"
+  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/nabzxstore     ${NC}"
+  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : NABZX HOST${NC}"
+  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by Nabzxhost  ${NC}"
   echo -e "${BLUE}  'ggg    '-.__                                           ${NC}"
   echo -e "${BLUE}    ggg                                                   ${NC}"
   echo -e "${BLUE}      ggg                                                 ${NC}"
